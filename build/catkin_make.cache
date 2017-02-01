@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/quan/hri_ws/devel -DCMAKE_INSTALL_PREFIX=/home/quan/hri_ws/install -G Unix Makefiles
