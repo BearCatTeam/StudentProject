@@ -1,0 +1,8 @@
+prefix=/home/quan/hri_ws/devel
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.7.5
+Cflags: -I/home/quan/hri_ws/src/rosserial/rosserial_server/include
+Libs: -L/home/quan/hri_ws/devel/lib 
+Requires: roscpp rosserial_msgs topic_tools

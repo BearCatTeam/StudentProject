@@ -1,0 +1,8 @@
+prefix=/home/quan/hri_ws/devel
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.7.5
+Cflags: 
+Libs: -L/home/quan/hri_ws/devel/lib 
+Requires: 

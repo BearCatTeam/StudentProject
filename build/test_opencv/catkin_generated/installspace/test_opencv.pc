@@ -1,0 +1,8 @@
+prefix=/home/quan/hri_ws/install
+
+Name: test_opencv
+Description: Description of test_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/quan/hri_ws/install/lib 
+Requires: 

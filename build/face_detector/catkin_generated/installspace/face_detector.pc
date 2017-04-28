@@ -1,0 +1,8 @@
+prefix=/home/quan/hri_ws/install
+
+Name: face_detector
+Description: Description of face_detector
+Version: 1.0.0
+Cflags: -I/home/quan/hri_ws/install/include
+Libs: -L/home/quan/hri_ws/install/lib 
+Requires: cv_bridge image_transport roscpp rospy sensor_msgs std_msgs geometry_msgs message_runtime

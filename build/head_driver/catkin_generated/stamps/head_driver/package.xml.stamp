@@ -1,0 +1,13 @@
+<package>
+	<name>head_driver</name>
+	<version>1.0.0</version>
+	<description>
+		This is the meta package contains all the needed package required for controlling the robots head
+	</description>
+	<maintainer email="nghnqalive@gmail.com">Quan H. Nguyen</maintainer>
+	<license>BSD</license>
+	<buildtool_depend>catkin</buildtool_depend>	
+	<export>
+ 		<metapackage/>
+	</export>
+</package>
